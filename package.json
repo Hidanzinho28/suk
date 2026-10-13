@@ -1,0 +1,11 @@
+{
+  "name": "osuk-site-bukiopay",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/verify-deploy.cjs"
+  },
+  "dependencies": {
+    "qrcode": "1.5.4"
+  }
+}
